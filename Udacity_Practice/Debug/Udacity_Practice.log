@@ -1,0 +1,57 @@
+﻿  ExerciceImpl.cpp
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(113,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(116,23): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(131,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(145,11): warning C4930: 'Shape sh3(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(207,28): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\TempImpl.cpp(12,12): warning C4244: 'return': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(114): message : see reference to function template instantiation 'T getBigger<int,float>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=float
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\TempImpl.cpp(12,12): warning C4244: 'return': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(116): message : see reference to function template instantiation 'T getBigger<float,int>(T,U)' being compiled
+          with
+          [
+              T=float,
+              U=int
+          ]
+  Udacity_Practice.cpp
+  VectAndIterator.cpp
+  Generating Code...
+C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Udacity_Practice\ExerciceImpl.cpp(86): warning C4715: 'search': not all control paths return a value
+  Udacity_Practice.vcxproj -> C:\Users\iarle\Documents\Visual Studio 2019\Udacity_Practice\Debug\Udacity_Practice.exe
